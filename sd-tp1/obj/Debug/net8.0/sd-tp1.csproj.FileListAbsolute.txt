@@ -1,0 +1,15 @@
+C:\Users\mfreq\Desktop\UTAD\Semestre 2\Sistemas Distribuidos\sd-al79138-al79229-al79908\sd-tp1\bin\Debug\net8.0\sd-tp1.exe
+C:\Users\mfreq\Desktop\UTAD\Semestre 2\Sistemas Distribuidos\sd-al79138-al79229-al79908\sd-tp1\bin\Debug\net8.0\sd-tp1.deps.json
+C:\Users\mfreq\Desktop\UTAD\Semestre 2\Sistemas Distribuidos\sd-al79138-al79229-al79908\sd-tp1\bin\Debug\net8.0\sd-tp1.runtimeconfig.json
+C:\Users\mfreq\Desktop\UTAD\Semestre 2\Sistemas Distribuidos\sd-al79138-al79229-al79908\sd-tp1\bin\Debug\net8.0\sd-tp1.dll
+C:\Users\mfreq\Desktop\UTAD\Semestre 2\Sistemas Distribuidos\sd-al79138-al79229-al79908\sd-tp1\bin\Debug\net8.0\sd-tp1.pdb
+C:\Users\mfreq\Desktop\UTAD\Semestre 2\Sistemas Distribuidos\sd-al79138-al79229-al79908\sd-tp1\obj\Debug\net8.0\sd-tp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mfreq\Desktop\UTAD\Semestre 2\Sistemas Distribuidos\sd-al79138-al79229-al79908\sd-tp1\obj\Debug\net8.0\sd-tp1.AssemblyInfoInputs.cache
+C:\Users\mfreq\Desktop\UTAD\Semestre 2\Sistemas Distribuidos\sd-al79138-al79229-al79908\sd-tp1\obj\Debug\net8.0\sd-tp1.AssemblyInfo.cs
+C:\Users\mfreq\Desktop\UTAD\Semestre 2\Sistemas Distribuidos\sd-al79138-al79229-al79908\sd-tp1\obj\Debug\net8.0\sd-tp1.csproj.CoreCompileInputs.cache
+C:\Users\mfreq\Desktop\UTAD\Semestre 2\Sistemas Distribuidos\sd-al79138-al79229-al79908\sd-tp1\obj\Debug\net8.0\sd-tp1.sourcelink.json
+C:\Users\mfreq\Desktop\UTAD\Semestre 2\Sistemas Distribuidos\sd-al79138-al79229-al79908\sd-tp1\obj\Debug\net8.0\sd-tp1.dll
+C:\Users\mfreq\Desktop\UTAD\Semestre 2\Sistemas Distribuidos\sd-al79138-al79229-al79908\sd-tp1\obj\Debug\net8.0\refint\sd-tp1.dll
+C:\Users\mfreq\Desktop\UTAD\Semestre 2\Sistemas Distribuidos\sd-al79138-al79229-al79908\sd-tp1\obj\Debug\net8.0\sd-tp1.pdb
+C:\Users\mfreq\Desktop\UTAD\Semestre 2\Sistemas Distribuidos\sd-al79138-al79229-al79908\sd-tp1\obj\Debug\net8.0\sd-tp1.genruntimeconfig.cache
+C:\Users\mfreq\Desktop\UTAD\Semestre 2\Sistemas Distribuidos\sd-al79138-al79229-al79908\sd-tp1\obj\Debug\net8.0\ref\sd-tp1.dll
