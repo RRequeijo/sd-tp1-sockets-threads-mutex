@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("wavies")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f01eee6ca870bb306dd8a0c8bdc64e45f1dd808")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e91e921521f17fb42e730dfe6ed1377b6d00b834")]
 [assembly: System.Reflection.AssemblyProductAttribute("wavies")]
 [assembly: System.Reflection.AssemblyTitleAttribute("wavies")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
