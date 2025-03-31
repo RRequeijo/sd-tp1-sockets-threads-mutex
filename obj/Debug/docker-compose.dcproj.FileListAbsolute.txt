@@ -1,8 +1,0 @@
-C:\Users\mfreq\Desktop\UTAD\Semestre 2\Sistemas Distribuidos\sd-al79138-al79229-al79908\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
-C:\Users\mfreq\Desktop\UTAD\Semestre 2\Sistemas Distribuidos\sd-al79138-al79229-al79908\bin\Debug\sd-tp1.deps.json
-C:\Users\mfreq\Desktop\UTAD\Semestre 2\Sistemas Distribuidos\sd-al79138-al79229-al79908\bin\Debug\sd-tp1.runtimeconfig.json
-C:\Users\mfreq\Desktop\UTAD\Semestre 2\Sistemas Distribuidos\sd-al79138-al79229-al79908\bin\Debug\sd-tp1.exe
-C:\Users\mfreq\Desktop\UTAD\Semestre 2\Sistemas Distribuidos\sd-al79138-al79229-al79908\bin\Debug\sd-tp1.dll
-C:\Users\mfreq\Desktop\UTAD\Semestre 2\Sistemas Distribuidos\sd-al79138-al79229-al79908\bin\Debug\sd-tp1.pdb
-C:\Users\mfreq\Desktop\UTAD\Semestre 2\Sistemas Distribuidos\sd-al79138-al79229-al79908\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
-C:\Users\mfreq\Desktop\UTAD\Semestre 2\Sistemas Distribuidos\sd-al79138-al79229-al79908\obj\Debug\docker-c.35A3FFBA.Up2Date
